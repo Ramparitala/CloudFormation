@@ -44,7 +44,7 @@
             "Type":"AWS::EC2::AvailabilityZone::Name"
         },
         "Keypair": {
-            "Description": "Keypair",
+            "Description": "Select the KeyValuepair",
             "Type": "AWS::EC2::KeyPair::KeyName"
         }
     },
